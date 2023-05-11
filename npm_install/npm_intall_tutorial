@@ -1,0 +1,7 @@
+O npm install serve para baixar todos os modulos do seu node para a pasta onde tú executar o comando
+
+npm install também pode baixar modulos especificos como:
+node install mysql2 (esse só irá baixar o modulo mysql2)
+node install express (esse só irá baixar o modulo express)
+node install serialport(esse só irá baixar o modulo serialport)
+node install nodemailer(esse só irá baixar o modulo nodemailer)
